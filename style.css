@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+small{
+    color: blue;
+    text-indent: 50px;
+    display: block;
+    line-height: 30px;
+    letter-spacing: 7px;
+    text-align: justify;
+}
